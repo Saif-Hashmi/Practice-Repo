@@ -53,5 +53,5 @@ This repository serves as a hands-on sandbox to experiment with core Git command
 
 ---
 <div align="center">
-  <i>Maintained by <a href="https://github.com/Umar-Adnan">Umar Adnan</a>, <a href="https://github.com/ibrahimadnan2320">Ibrahim Adnan</a>, <a href="https://github.com/Saif-Hashmi">Saif Hashmi</a>, <a href="https://github.com/saboor21-coder">Saboor Arif</a>, <a href="https://github.com/devnoumannaseer-ctrl">Nauman Naseer ( aka Nomi )</a> & <a href="https://github.com/rohan-awan"> Malak Rohan Khalid Awan ( aka Malak Saab )</a></i>
+  <i>Maintained by <a href="https://github.com/Umar-Adnan">Umar Adnan</a>, <a href="https://github.com/ibrahimadnan2320">Ibrahim Adnan</a>, <a href="https://github.com/Saif-Hashmi">Saif Hashmi</a>, <a href="https://github.com/Tayyab-Yahya"> Tayyab Yahya </a>, <a href="https://github.com/saboor21-coder">Saboor Arif</a>, <a href="https://github.com/devnoumannaseer-ctrl">Nauman Naseer ( aka Nomi )</a> & <a href="https://github.com/rohan-awan"> Malak Rohan Khalid Awan ( aka Malak Saab )</a>  </i>
 </div>
