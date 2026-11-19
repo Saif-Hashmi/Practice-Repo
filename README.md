@@ -19,17 +19,6 @@
 
 This repository serves as a hands-on sandbox to experiment with core Git commands and GitHub workflows without affecting production projects. Everything here is built to test, break, fix, and understand how version control works under the hood.
 
----
-
-## 📂 Repository Structure
-
-    Practice-Repo/
-    ├── Backend/        # Server-side experiments, scripts, and API practice
-    ├── Frontend/       # Client-side UI experiments, layouts, and components
-    └── README.md       # Repository Description
-
----
-
 ## 🛠️ What We're Practicing Here
 
 * **Core Version Control:** Staging (`git add`), committing (`git commit`), inspecting history (`git log`), and undoing changes (`git reset`, `git revert`).
@@ -53,5 +42,5 @@ This repository serves as a hands-on sandbox to experiment with core Git command
 
 ---
 <div align="center">
-  <i>Maintained by <a href="https://github.com/Umar-Adnan">Umar Adnan</a>, <a href="https://github.com/ibrahimadnan2320">Ibrahim Adnan</a>, <a href="https://github.com/Saif-Hashmi">Saif Hashmi</a>, <a href="https://github.com/saboor21-coder">Saboor Arif</a> & <a href="https://github.com/devnoumannaseer-ctrl">Nauman Naseer ( aka Nomi )</a></i>
+  <i>Maintained by <a href="https://github.com/Umar-Adnan">Umar Adnan</a>, <a href="https://github.com/ibrahimadnan2320">Ibrahim Adnan</a>, <a href="https://github.com/Saif-Hashmi">Saif Hashmi</a>, <a href="https://github.com/Tayyab-Yahya"> Tayyab Yahya </a>, <a href="https://github.com/saboor21-coder">Saboor Arif</a>, <a href="https://github.com/devnoumannaseer-ctrl">Nauman Naseer ( aka Nomi )</a> & <a href="https://github.com/rohan-awan"> Malak Rohan Khalid Awan ( aka Malak Saab )</a>  </i>
 </div>
